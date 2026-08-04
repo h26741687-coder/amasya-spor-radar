@@ -745,7 +745,7 @@ def haber_karti_goster(veri, config):
                 if etkinlik.get("yer"):
                     st.write(f"**Etkinlik Yeri:** {etkinlik['yer']}")
                 if etkinlik.get("katilimci"):
-                    st.write(f**Katılımcılar:** {etkinlik['katilimci']}")
+                    st.write(f"**Katılımcılar:** {etkinlik['katilimci']}")
 
         st.divider()
 
