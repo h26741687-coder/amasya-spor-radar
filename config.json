@@ -1,7 +1,7 @@
 {
   "uygulama_adi": "Amasya Spor Radar",
-  "versiyon": "1.0",
-  "aciklama": "Amasya'daki tüm sportif faaliyetleri, haberleri, etkinlikleri ve taraftar oluşumlarını takip eden istihbarat sistemi",
+  "versiyon": "2.0",
+  "aciklama": "Amasya'daki tum sportif faaliyetleri takip eden istihbarat sistemi",
   "kaynaklar": {
     "rss_kaynaklari": [
       {
@@ -19,7 +19,7 @@
         "kategori": "yerel_haber"
       },
       {
-        "ad": "Amasya'nın Sesi",
+        "ad": "Amasya'nin Sesi",
         "url": "https://www.amasyaninsesi.com.tr/rss",
         "tur": "rss",
         "aktif": true,
@@ -40,7 +40,7 @@
         "kategori": "genel_haber"
       },
       {
-        "ad": "Hürriyet - Amasya",
+        "ad": "Hurriyet - Amasya",
         "url": "https://www.hurriyet.com.tr/rss/amasya",
         "tur": "rss",
         "aktif": true,
@@ -56,7 +56,7 @@
     ],
     "web_siteleri": [
       {
-        "ad": "TFF - Amasya İl Temsilciliği",
+        "ad": "TFF - Amasya Il Temsilciligi",
         "url": "https://www.tff.org/Default.aspx?pageID=527&ilID=5",
         "tur": "web",
         "aktif": true,
@@ -64,7 +64,7 @@
         "secici": ".news-item, .haber-item, .duyuru-item"
       },
       {
-        "ad": "Gençlik ve Spor İl Müdürlüğü - Amasya",
+        "ad": "Genclik ve Spor Il Mudurlugu",
         "url": "https://amasya.gsb.gov.tr/",
         "tur": "web",
         "aktif": true,
@@ -80,7 +80,7 @@
         "secici": ".news-item, .post, .haber, article"
       },
       {
-        "ad": "Amasya Valiliği - Duyurular",
+        "ad": "Amasya Valiligi - Duyurular",
         "url": "https://www.amasya.gov.tr/duyurular",
         "tur": "web",
         "aktif": true,
@@ -96,7 +96,7 @@
         "secici": ".news-item, .haber"
       },
       {
-        "ad": "Amasyaspor FK Resmi Site",
+        "ad": "Amasyaspor FK",
         "url": "https://www.amasyasporfk.com/",
         "tur": "web",
         "aktif": true,
@@ -120,7 +120,7 @@
         "secici": ".post, .news-item, article, .haber"
       },
       {
-        "ad": "Amasya'nın Sesi Web",
+        "ad": "Amasya'nin Sesi Web",
         "url": "https://www.amasyaninsesi.com.tr/kategori/spor/",
         "tur": "web",
         "aktif": true,
@@ -136,7 +136,7 @@
         "secici": ".post, .news-item, article, .haber"
       },
       {
-        "ad": "Hürriyet - Amasya Spor",
+        "ad": "Hurriyet - Amasya Spor",
         "url": "https://www.hurriyet.com.tr/arama/?q=amasya+spor",
         "tur": "web",
         "aktif": true,
@@ -184,7 +184,7 @@
         "secici": ".news-item, .post, article"
       },
       {
-        "ad": "Amasya Üniversitesi - Spor",
+        "ad": "Amasya Universitesi - Spor",
         "url": "https://www.amasya.edu.tr/tr/duyurular",
         "tur": "web",
         "aktif": true,
@@ -194,22 +194,22 @@
     ],
     "sosyal_medya": [
       {
-        "ad": "Yeşil Şimşekler Twitter",
+        "ad": "Yesil Simsekler Twitter",
         "url": "https://twitter.com/yesilsimsekler",
         "tur": "sosyal",
         "platform": "twitter",
         "aktif": true,
         "kategori": "taraftar",
-        "grup": "Yeşil Şimşekler"
+        "grup": "Yesil Simsekler"
       },
       {
-        "ad": "Şehzadeler Twitter",
+        "ad": "Sehzadeler Twitter",
         "url": "https://twitter.com/sehzadeler",
         "tur": "sosyal",
         "platform": "twitter",
         "aktif": true,
         "kategori": "taraftar",
-        "grup": "Şehzadeler"
+        "grup": "Sehzadeler"
       },
       {
         "ad": "Amasyaspor FK Twitter",
@@ -221,7 +221,7 @@
         "grup": "Amasyaspor FK"
       },
       {
-        "ad": "Amasya Gençlik ve Spor Twitter",
+        "ad": "Amasya GSB Twitter",
         "url": "https://twitter.com/amasya_gsb",
         "tur": "sosyal",
         "platform": "twitter",
@@ -239,22 +239,22 @@
         "grup": "Amasya Belediyesi"
       },
       {
-        "ad": "Yeşil Şimşekler Instagram",
+        "ad": "Yesil Simsekler Instagram",
         "url": "https://www.instagram.com/yesilsimsekler/",
         "tur": "sosyal",
         "platform": "instagram",
         "aktif": true,
         "kategori": "taraftar",
-        "grup": "Yeşil Şimşekler"
+        "grup": "Yesil Simsekler"
       },
       {
-        "ad": "Şehzadeler Instagram",
+        "ad": "Sehzadeler Instagram",
         "url": "https://www.instagram.com/sehzadeler/",
         "tur": "sosyal",
         "platform": "instagram",
         "aktif": true,
         "kategori": "taraftar",
-        "grup": "Şehzadeler"
+        "grup": "Sehzadeler"
       },
       {
         "ad": "Amasyaspor FK Instagram",
@@ -277,14 +277,14 @@
     ],
     "etkinlik_kaynaklari": [
       {
-        "ad": "TFF Müsabaka Takvimi",
+        "ad": "TFF Musabaka Takvimi",
         "url": "https://www.tff.org/Default.aspx?pageID=1428",
         "tur": "etkinlik",
         "aktif": true,
         "kategori": "musabaka"
       },
       {
-        "ad": "TVF Müsabaka Takvimi",
+        "ad": "TVF Musabaka Takvimi",
         "url": "https://www.tvf.org.tr/fikstur/",
         "tur": "etkinlik",
         "aktif": true,
@@ -298,7 +298,7 @@
         "kategori": "etkinlik"
       },
       {
-        "ad": "Amasya Valiliği Etkinlikler",
+        "ad": "Amasya Valiligi Etkinlikler",
         "url": "https://www.amasya.gov.tr/etkinlikler",
         "tur": "etkinlik",
         "aktif": true,
@@ -315,10 +315,10 @@
   },
   "taraftar_gruplari": [
     {
-      "ad": "Yeşil Şimşekler",
+      "ad": "Yesil Simsekler",
       "kisa_ad": "yesilsimsekler",
       "renkler": [
-        "Yeşil",
+        "Yesil",
         "Siyah"
       ],
       "takim": "Amasyaspor FK",
@@ -331,10 +331,10 @@
       "oncelik": 1
     },
     {
-      "ad": "Şehzadeler",
+      "ad": "Sehzadeler",
       "kisa_ad": "sehzadeler",
       "renkler": [
-        "Yeşil",
+        "Yesil",
         "Beyaz"
       ],
       "takim": "Amasyaspor FK",
@@ -347,10 +347,10 @@
       "oncelik": 1
     },
     {
-      "ad": "Amasyaspor Taraftarları",
+      "ad": "Amasyaspor Taraftarlari",
       "kisa_ad": "amasyaspor_taraftar",
       "renkler": [
-        "Yeşil",
+        "Yesil",
         "Siyah"
       ],
       "takim": "Amasyaspor FK",
@@ -362,13 +362,13 @@
       "oncelik": 2
     },
     {
-      "ad": "Amasya Gençlik",
+      "ad": "Amasya Genclik",
       "kisa_ad": "amasya_genclik",
       "renkler": [
-        "Kırmızı",
+        "Kirmizi",
         "Beyaz"
       ],
-      "takim": "Çeşitli",
+      "takim": "Cesitli",
       "platformlar": {
         "twitter": "amasya_genclik",
         "instagram": "amasya_genclik"
@@ -388,18 +388,18 @@
       ],
       "federasyon": "TFF",
       "oncelik": 1,
-      "amasya_basarilari": "Amasyaspor FK tarihsel başarıları, bölgesel liglerde üst sıralar"
+      "amasya_basarilari": "Amasyaspor FK tarihsel basarilari, bolgesel liglerde ust siralar"
     },
     {
       "ad": "Voleybol",
       "kisa_ad": "voleybol",
       "takimlar": [
         "Amasya Belediyespor Voleybol",
-        "Amasya Üniversitesi Voleybol"
+        "Amasya Universitesi Voleybol"
       ],
       "federasyon": "TVF",
       "oncelik": 1,
-      "amasya_basarilari": "Kadın voleybol takımları bölgesel başarılar"
+      "amasya_basarilari": "Kadin voleybol takimlari bolgesel basarilar"
     },
     {
       "ad": "Basketbol",
@@ -409,27 +409,27 @@
       ],
       "federasyon": "TBF",
       "oncelik": 2,
-      "amasya_basarilari": "Gençlik kategorilerinde başarılar"
+      "amasya_basarilari": "Genclik kategorilerinde basarilar"
     },
     {
-      "ad": "Güreş",
+      "ad": "Gures",
       "kisa_ad": "gures",
       "takimlar": [
-        "Amasya Güreş Takımı"
+        "Amasya Gures Takimi"
       ],
       "federasyon": "TGF",
       "oncelik": 1,
-      "amasya_basarilari": "Geleneksel yağlı güreşler, okul sporları başarıları"
+      "amasya_basarilari": "Geleneksel yagli guresler, okul sporlari basarilari"
     },
     {
-      "ad": "Okçuluk",
+      "ad": "Okculuk",
       "kisa_ad": "okculuk",
       "takimlar": [
-        "Amasya Okçuluk"
+        "Amasya Okculuk"
       ],
       "federasyon": "TOKF",
       "oncelik": 2,
-      "amasya_basarilari": "Gençlik ve spor müdürlüğü altyapı başarıları"
+      "amasya_basarilari": "Genclik ve spor mudurlugu altyapi basarilari"
     },
     {
       "ad": "Atletizm",
@@ -439,17 +439,17 @@
       ],
       "federasyon": "TAF",
       "oncelik": 2,
-      "amasya_basarilari": "Bölgesel yarışmalarda madalyalar"
+      "amasya_basarilari": "Bolgesel yarisamalarda madalyalar"
     },
     {
-      "ad": "Yüzme",
+      "ad": "Yuzme",
       "kisa_ad": "yuzme",
       "takimlar": [
-        "Amasya Yüzme"
+        "Amasya Yuzme"
       ],
       "federasyon": "TYF",
       "oncelik": 2,
-      "amasya_basarilari": "Gençlik kategorilerinde başarılar"
+      "amasya_basarilari": "Genclik kategorilerinde basarilar"
     },
     {
       "ad": "Judo",
@@ -459,7 +459,7 @@
       ],
       "federasyon": "TJF",
       "oncelik": 2,
-      "amasya_basarilari": "Okul sporları ve gençlik başarıları"
+      "amasya_basarilari": "Okul sporlari ve genclik basarilari"
     },
     {
       "ad": "Taekwondo",
@@ -469,7 +469,7 @@
       ],
       "federasyon": "TTF",
       "oncelik": 2,
-      "amasya_basarilari": "Gençlik kategorilerinde madalyalar"
+      "amasya_basarilari": "Genclik kategorilerinde madalyalar"
     },
     {
       "ad": "Hentbol",
@@ -479,66 +479,61 @@
       ],
       "federasyon": "THF",
       "oncelik": 2,
-      "amasya_basarilari": "Kadın hentbol takımı bölgesel başarılar"
+      "amasya_basarilari": "Kadin hentbol takimi bolgesel basarilar"
     }
   ],
   "etiketler": [
     "#AmasyaSpor",
     "#Amasyaspor",
     "#AmasyaSporFK",
-    "#YeşilŞimşekler",
     "#YesilSimsekler",
-    "#Şehzadeler",
     "#Sehzadeler",
     "#AmasyaFutbol",
     "#AmasyaVoleybol",
-    "#AmasyaGüreş",
     "#AmasyaGures",
     "#AmasyaBasketbol",
-    "#AmasyaGençlik",
+    "#AmasyaGenclik",
     "#AmasyaGSB",
     "#AmasyaBelediyespor",
     "#AmasyaEtkinlik",
-    "#AmasyaMüsabaka",
+    "#AmasyaMusabaka",
     "#AmasyaTaraftar",
-    "#YeşilBeyaz",
-    "#AmasyaKalemi",
-    "#AmasyaÜniversitesiSpor"
+    "#YesilBeyaz"
   ],
   "anahtar_kelimeler": [
     "Amasya spor",
     "Amasyaspor",
     "Amasya futbol",
     "Amasya voleybol",
-    "Amasya güreş",
+    "Amasya gures",
     "Amasya basketbol",
     "Amasya hentbol",
     "Amasya atletizm",
-    "Amasya yüzme",
-    "Amasya okçuluk",
+    "Amasya yuzme",
+    "Amasya okculuk",
     "Amasya judo",
     "Amasya taekwondo",
-    "Yeşil Şimşekler",
-    "Şehzadeler",
+    "Yesil Simsekler",
+    "Sehzadeler",
     "Amasya taraftar",
-    "Amasya müsabaka",
+    "Amasya musabaka",
     "Amasya turnuva",
-    "Amasya şampiyona",
+    "Amasya sampiyona",
     "Amasya lig",
     "Amasya kupa",
     "Amasya belediyespor",
-    "Amasya gençlik spor",
-    "Amasya il müdürlüğü spor",
+    "Amasya genclik spor",
+    "Amasya il mudurlugu spor",
     "Amasya protokol spor",
     "Amasya vali spor",
-    "Amasya belediye başkanı spor",
+    "Amasya belediye baskani spor",
     "Amasya milletvekili spor",
-    "Amasya spor yatırım",
+    "Amasya spor yatirim",
     "Amasya spor tesis",
     "Amasya stad",
     "Amasya 12 Haziran Stadyumu",
     "Amasya spor salonu",
-    "Amasya yüzme havuzu",
+    "Amasya yuzme havuzu",
     "Amasya spor kompleksi"
   ],
   "ayarlar": {
@@ -558,12 +553,37 @@
     "min_icerik_uzunluk": 50,
     "gorunum_tema": "acik",
     "varsayilan_siralama": "tarih_yeni",
-    "varsayilan_filtre": "tum"
+    "varsayilan_filtre": "tum",
+    "protokol_vurgula": true,
+    "taraftar_vurgula": true,
+    "etkinlik_karti_goster": true,
+    "kaynak_rozetleri_goster": true,
+    "duygu_rozetleri_goster": true,
+    "brans_rozetleri_goster": true,
+    "grup_rozetleri_goster": true,
+    "tarih_formati": "dd.mm.yyyy HH:MM",
+    "sidebar_acik": true,
+    "sayfa_basligi": "Amasya Spor Radar",
+    "favicon": "futbol",
+    "ozellestirilmis_css": "",
+    "disa_aktar_format": "excel",
+    "disa_aktar_dil": "tr",
+    "bildirim_ses": false,
+    "bildirim_masaustu": false,
+    "gizli_kaynaklari_goster": false,
+    "debug_modu": false,
+    "spor_filtre_skor_esigi": 1,
+    "sadece_spor_icerik": true,
+    "etkinlik_sadece_spor": true,
+    "protokol_kelime_listesi": "vali,belediye baskani,milletvekili,kaymakam,protokol,genclik ve spor il muduru,gsb muduru,rektor,dekan,spor il muduru,bakan,baskan,mudur",
+    "yer_kelime_listesi": "amasya,12 haziran stadyumu,spor salonu,spor kompleksi,yuzme havuzu,stad,salon,merzifon,suluova,tasova,gumushacikoy",
+    "olumlu_duygu_kelimeleri": "basari,zafer,sampiyon,kazandi,guzel,harika,tebrik,bravo,muhtesem,gurur,mutlu,sevinc",
+    "olumsuz_duygu_kelimeleri": "maglup,kaybetti,basarisiz,kotu,berbat,protesto,eylem,kavga,sikayet,sorun,husran,uzucu"
   },
   "ai_modulleri": {
     "ozetleyici": {
       "aktif": false,
-      "aciklama": "Haberleri otomatik özetler",
+      "aciklama": "Haberleri otomatik ozetler",
       "tip": "yerel",
       "parametreler": {
         "max_cumle": 3,
@@ -572,13 +592,13 @@
     },
     "duygu_analizi": {
       "aktif": false,
-      "aciklama": "Taraftar paylaşımlarının duygu durumunu analiz eder",
+      "aciklama": "Taraftar paylasimlarinin duygu durumunu analiz eder",
       "tip": "yerel",
       "parametreler": {}
     },
     "etkinlik_tanima": {
       "aktif": false,
-      "aciklama": "Metin içinden etkinlik bilgilerini çıkarır (tarih, yer, katılımcı)",
+      "aciklama": "Metin icinden etkinlik bilgilerini cikarir (tarih, yer, katilimci)",
       "tip": "yerel",
       "parametreler": {}
     }
