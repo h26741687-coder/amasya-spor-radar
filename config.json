@@ -602,5 +602,71 @@
       "tip": "yerel",
       "parametreler": {}
     }
+  },
+  "api": {
+    "hava_durumu": {
+      "servis": "openweathermap",
+      "aciklama": "Amasya'daki maç ve etkinlikler için hava durumu bilgisi",
+      "api_anahtari": "",
+      "sehir": "Amasya",
+      "ulke_kodu": "TR",
+      "birim": "metric",
+      "dil": "tr",
+      "aktif": false
+    },
+    "spor_verileri": {
+      "servis": "api-football",
+      "aciklama": "Canlı maç sonuçları, puan durumu ve istatistikler",
+      "api_anahtari": "",
+      "aktif": false,
+      "takim_id": null,
+      "lig_id": null
+    },
+    "harita": {
+      "servis": "leaflet",
+      "aciklama": "Amasya'daki spor tesislerini haritada gösterir (API anahtarı gerekmez)",
+      "api_anahtari": "",
+      "aktif": true,
+      "varsayilan_konum": {
+        "lat": 40.6499,
+        "lon": 35.8353,
+        "zoom": 13
+      }
+    },
+    "haber": {
+      "servis": "newsapi",
+      "aciklama": "Genel spor haberleri toplama",
+      "api_anahtari": "",
+      "aktif": false,
+      "anahtar_kelimeler": "Amasya spor",
+      "dil": "tr",
+      "ulke": "tr",
+      "sayfa_basina": 20
+    },
+    "bildirim": {
+      "telegram": {
+        "aciklama": "Yeni haber ve etkinlik bildirimleri için Telegram botu",
+        "bot_token": "",
+        "chat_id": "",
+        "aktif": false
+      },
+      "email": {
+        "aciklama": "E-posta bildirimleri",
+        "smtp_sunucu": "",
+        "smtp_port": 587,
+        "kullanici_adi": "",
+        "sifre": "",
+        "gonderen": "",
+        "alici_listesi": [],
+        "aktif": false
+      }
+    },
+    "youtube": {
+      "aciklama": "Amasya spor videoları ve maç özetleri",
+      "api_anahtari": "3ab1f428f0fd411a8932b867f266b81e",
+      "aktif": false,
+      "kanal_idleri": [],
+      "arama_kelimeleri": "Amasya spor, Amasyaspor FK"
+    }
   }
 }
